@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/akin-a/notes/blob/main/images/java/openjdkhistory.png)
 
 - 1991      - Sun developed JAVA
 - 2006/2007 - Sun released **first openJDK** (free and open-source implementation of the Java Platform, Standard Edition , Java SE)
