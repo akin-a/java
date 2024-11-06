@@ -1,3 +1,5 @@
+![alt text](https://github.com/akin-a/notes/blob/main/images/java/jdkvsjvmvsjre.png)
+
 JVM
 ---
 - Java Virtual machine is like engine of a car
